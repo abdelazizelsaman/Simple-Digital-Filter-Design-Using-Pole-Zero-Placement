@@ -13,13 +13,12 @@ system is stable).
 1.4 In order to get a digital flter with real coefcients, complex poles should appear in complex-
 conjugate pairs. Same for complex zeros.
 
-1.5 The objective of this project is to become familiar with designing simple digital flters by properly
+1.5 The objective of this project is to become familiar with designing simple digital filters by properly
 placing poles and zeros in the Z-domain.
 
 2. Filter Specifcations:
 
-The specifcations of practical flters usually take the form of a tolerance diagram, as shown in Figure 1
-for a lowpass flter.
+The specifcations of practical flters usually take the form of a tolerance diagram:
 
 2.1 The passband edge is denoted by wp and the stopband edge is denoted by ws.
 
