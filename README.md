@@ -37,7 +37,7 @@ Part 2:<br/>
 
 Objective: Design 3rd Order Discrete-Time Low pass Filter.<br/>
 Steps:<br/>
-1. Adjust the magnitude of the additional complex-conjugate poles (p2 and p3) such that the pass band ripples are less than 1 dB (Project Required).<br/>
+1. Adjust the magnitude of the additional complex-conjugate poles (p2 and p3) such that the pass band ripples are less than 1 dB (Project requirement).<br/>
 2. Pole-zero plot and the unit circle in the Z-domain.<br/>
 3. Magnitude response of the filter in dB in the frequency range(-pi<w<=pi).<br/>
 4. Magnitude response of the filter in dB in the frequency range (-wp<w<=wp).<br/>
